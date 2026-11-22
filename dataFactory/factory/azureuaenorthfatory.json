@@ -1,0 +1,16 @@
+{
+	"name": "azureuaenorthfatory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5af97fd6-fbef-4eee-bf52-5350b5b85277",
+		"tenantId": "966a722c-10b5-4821-adc1-03a11c8cc8c8"
+	}
+}
